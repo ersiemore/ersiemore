@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./ersiemore_banner.png" width="100%" alt="Ivan">
+<img src="./banner.png" width="100%" alt="Ivan">
 
 <br><br>
 
