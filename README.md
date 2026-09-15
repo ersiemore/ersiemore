@@ -20,7 +20,7 @@
   <img src="https://cdn.simpleicons.org/instagram/E4405F" width="38" alt="Instagram">
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://t.me/YOUR_CHANNEL">
+<a href="https://t.me/ersiemoreprojects">
   <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="38" alt="Telegram">
 </a>
 
