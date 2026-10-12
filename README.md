@@ -1,69 +1,67 @@
-<div align="center">
+ <div align="center">
 
-<img src="./banner.png" width="100%" alt="Ivan">
+<img src="./ersiemore.gif" width="100%" alt="ersiemore animated banner">
 
-<br><br>
+<br>
 
 # Ivan
 
 **Python Developer · Kazakhstan 🇰🇿**
 
-17 y.o. developer focused on Python, game development and building personal projects.
+Building projects, games, and useful software with Python.
 
 <br>
 
 <a href="https://github.com/ersiemore">
-  <img src="https://cdn.simpleicons.org/github/ffffff" width="38" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-ersiemore-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
-&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/ersiemore/">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="38" alt="Instagram">
+  <img src="https://img.shields.io/badge/Instagram-ersiemore-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
-&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/ersiemoreprojects">
-  <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="38" alt="Telegram">
+  <img src="https://img.shields.io/badge/Telegram-Projects-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
 
 </div>
 
 ---
 
-## About me
+## About Me
 
-I'm a 17-year-old developer focused on Python and personal projects.
+I'm a developer from Kazakhstan focused on Python, game development, and software engineering.
 
-I learn by building real things — from small programs to games and useful software.
+I learn by building real projects, experimenting with new technologies, and improving my programming skills.
 
-- 🐍 Python Developer
-- 🎮 Game Development
-- 💻 Software & Personal Projects
-- 📚 Always learning
+* Python development
+* Game development with Pygame
+* Algorithms and problem-solving
+* Software and personal projects
 
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pycharm,git,github" alt="Python, PyCharm, Git, GitHub">
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,pycharm,vscode" alt="Python, C++, Git, GitHub, PyCharm, VS Code">
 </p>
 
 ## Featured Projects
 
 ### 🎮 ErsieJump
 
-2D jumper game built with Python and Pygame.
+A 2D jumper game built with Python and Pygame.
 
-<a href="https://github.com/ersiemore/ersiejump">View project →</a>
+<a href="https://github.com/ersiemore/ersiejump">View Project →</a>
 
 ### 🏭 Warehouse Supply Accounting
 
-Python project for warehouse supply and accounting.
+A Python project for warehouse supply management and accounting.
 
-<a href="https://github.com/ersiemore/warehouse-supply-accounting">View project →</a>
+<a href="https://github.com/ersiemore/warehouse-supply-accounting">View Project →</a>
 
 ---
 
 <div align="center">
 
-**Currently learning Python and building new projects.**
+**Currently learning, building, and improving.**
 
 <br>
 
